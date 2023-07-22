@@ -16,14 +16,23 @@ Solution to the business problem:
 
 My group's solution to the business problem was to identify the 5-10 important features of their data that would determine if a customer was likely to default or not. The top 10 features included -
 -EXT_SOURCE_3 
+
 -EXT_SOURCE_2 
+
 -AMT_REQ_CREDIT_BUREAU_DAY 
+
 -FLAG_EMP_PHONE 
+
 -FLAG_DOCUMENT_3 
+
 -FLAG_DOCUMENT_16 
+
 -REGION_RATING_CLIENT_W_CITY
+
 -AMT_GOODS_PRICE 
+
 -AMT_REQ_CREDIT_BUREAU_HOUR 
+
 -REG_CITY_NOT_LIVE_CITY
 
 Based on these results, the customer is most likely to default when -
