@@ -16,39 +16,39 @@ The target variable is specificially customers that do have a negative history o
 
 My group's solution to the business problem was to identify the 5-10 important features of their data that would determine if a customer was likely to default or not. The top 10 features included -
 
--EXT_SOURCE_3 
+  -EXT_SOURCE_3 
 
--EXT_SOURCE_2 
+  -EXT_SOURCE_2 
 
--AMT_REQ_CREDIT_BUREAU_DAY 
+  -AMT_REQ_CREDIT_BUREAU_DAY 
 
--FLAG_EMP_PHONE 
+  -FLAG_EMP_PHONE 
 
--FLAG_DOCUMENT_3 
+  -FLAG_DOCUMENT_3 
 
--FLAG_DOCUMENT_16 
+  -FLAG_DOCUMENT_16 
 
--REGION_RATING_CLIENT_W_CITY
+  -REGION_RATING_CLIENT_W_CITY
 
--AMT_GOODS_PRICE 
+  -AMT_GOODS_PRICE 
 
--AMT_REQ_CREDIT_BUREAU_HOUR 
+  -AMT_REQ_CREDIT_BUREAU_HOUR 
 
--REG_CITY_NOT_LIVE_CITY
+  -REG_CITY_NOT_LIVE_CITY
 
 Based on these results, the customer is most likely to default when -
 
--Have a high number of enquiries to Credit Bureau about the client one day before application
+  -Client has a high number of enquiries to Credit Bureau about the client one day before application.
 
--Client provided work phone
+  -Client provided work phone.
 
--Suggests that the quality of region is a strong indicator of whether a customer will default. Less rated regions may have more likelihood of default.
+  -The quality of region is a strong indicator of whether a customer will default. Less rated regions may have more likelihood of default.
 
--Higher price of goods that the loans were given. 
+  -Higher price of goods that the loans were given. 
 
--Higher number of enquiries to Credit Bureau about the client on hour before
+  -Higher number of enquiries to Credit Bureau about the client on hour before application.
 
--If the permanent address does not match the contact address then they are more likely to default. 
+  -If the client's permanent address does not match the contact address then they are more likely to default. 
 
 ## The business value of the solution:
 
