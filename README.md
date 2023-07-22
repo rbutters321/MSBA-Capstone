@@ -14,7 +14,7 @@ The target variable is specificially customers that do have a negative history o
 
 ## Solution to the business problem:
 
-My group's solution to the business problem was to identify the 5-10 important features of their data that would determine if a customer was likely to default or not. The top 10 features included -
+My group's solution to the business problem was to identify the 5-10 important features of their data that would determine if a customer was likely to default or not. The top 10 features included:
 
   -EXT_SOURCE_3 
 
@@ -36,7 +36,7 @@ My group's solution to the business problem was to identify the 5-10 important f
 
   -REG_CITY_NOT_LIVE_CITY
 
-Based on these results, the customer is most likely to default when -
+Based on these results, the customer is most likely to default when:
 
   -Client has a high number of enquiries to Credit Bureau about the client one day before application.
 
