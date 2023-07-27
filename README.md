@@ -52,7 +52,7 @@ Based on these results, the customer is most likely to default when:
 
 ### The Business Value of the Solution:
 
-To put this data into practical use, to determine whether a customer may default before meeting with an appointment they could be asked survey questions about each of these behaviors. Before a loan is approved, loan officers can consider reviewing this information and setting certain criterias that when met will flag the customer as likely to default, hence the loan officer not approving the loan to the customer. 
+To put this data into practical use, to determine whether a customer may default before meeting with an appointment they could be asked survey questions about each of these behaviors. Before a loan is approved, loan officers can consider reviewing this information and setting certain criterias that when met will flag the customer as likely to default, hence the loan officer not approving the loan to the customer. This model also increases Home Credit's ability to predict default by 17% which results to direct monetary savings for the company.
 
 ### My Individual Contribution: 
 
@@ -68,4 +68,4 @@ I think the biggest difficultly my group encountered was trying to bring all of 
 
 I learned a considerable amount working on this project. I've never worked with which a big dataset before that required so much clean-up. Many of the columns contained null values and I had to research what methods I should use to deal with that problem. Most of the coding I've done historically has been done using R. My group wanted to work in python, so I took it as an opportunity to learn more about that coding language. 
 
-The datasets for this project was massive. Trying to pair down the main training set while also joining in some helpful columns from the other datasets was difficult. Initially, overfitting was a big project with my boosted tree model. I was getting an accuracy score of .90+ which I knew wasn't accurate. Oversampling and doing some additional data cleaning helped with that issue. Overall, I feel like the model I built was sufficient at meeting the business and analytics problems of this project. I also recognized that it also had a lot of room for improvement. Given more time I would have liked to learn more about feature enigeering. 
+The datasets for this project were massive. Trying to pair down the main training set while also joining in some helpful columns from the other datasets was difficult. Initially, overfitting was a big project with my boosted tree model. I was getting an accuracy score of .90+ which I knew wasn't accurate. Oversampling and doing some additional data cleaning helped with that issue. Overall, I feel like the model I built was sufficient at meeting the business and analytics problems of this project. I also recognized that it also had a lot of room for improvement. Given more time I would have liked to learn more about feature enigeering. 
