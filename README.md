@@ -62,7 +62,7 @@ In the modeling portion of this project I wrote all the code for the data cleani
 
 ### Difficulties That My Group Encountered Along the Way:
 
-I think the biggest difficultly my group encountered was trying to bring all of our models together and compare them. It sounds like an uncomplicated task but by the time we compiled them into one document and ran all the models, we didn't have the time to make the needed corrections before the assignment was due. 
+I think the biggest difficultly my group encountered was trying to bring all of our models together and compare them. It sounds like an uncomplicated task but by the time we compiled them into one document and ran all the models, we didn't have the time to make the needed corrections before the assignment was due. We should have compiled the notebooks much earilier, so we had more time to make changes.
 
 ### What I Learned in the Project:
 
